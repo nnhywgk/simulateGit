@@ -6,4 +6,7 @@ public class ModifyFile {
     public void mainBranch(){
         System.out.println("mainBranch");
     }
+    public void newBranch(){
+        System.out.println("newBranch");
+    }
 }
