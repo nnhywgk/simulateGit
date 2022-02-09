@@ -1,5 +1,5 @@
 public class addFile {
     public static void main(String[] args){
-        System.out.println("addFile");
+        System.out.println("modifyTwoFiles");
     }
 }
