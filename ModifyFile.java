@@ -13,4 +13,8 @@ public class ModifyFile {
     public void newBranch2(){
         System.out.println("newBranch2");
     }
+
+    public void newBranch3(){
+        System.out.println("newBranch3--modify");
+    }
 }
