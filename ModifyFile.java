@@ -1,10 +1,10 @@
 public class ModifyFile {
     public static void main(String[] args){
-        System.out.println("Bye World!");
+        System.out.println("modifyTwoFiles2");
     }
 
     public void mainBranch(){
-        System.out.println("modifyTwoFiles");
+        System.out.println("mainBranch");
     }
     public void newBranch(){
         System.out.println("newBranch");
