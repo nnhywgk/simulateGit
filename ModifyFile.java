@@ -9,4 +9,8 @@ public class ModifyFile {
     public void newBranch(){
         System.out.println("newBranch");
     }
+
+    public void newBranch2(){
+        System.out.println("newBranch2");
+    }
 }
